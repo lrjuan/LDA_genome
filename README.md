@@ -1,6 +1,6 @@
 # LDA_genome
 
-Source Codes:
+Source codes:
 
 generate_data.pl: Extract KGP data to variant information and individual genotypes.
 
@@ -29,3 +29,7 @@ The 1000 genomes project dataset is downloaded from: ftp://ftp.1000genomes.ebi.a
 The 31 related individuals dataset is downloaded from: ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/supporting/related_samples_vcf/
 
 High resolution figures: Figure 1-3, Figure S1-S3.
+
+Please do not hesitate to address comments/questions/suggestions regarding these codes to: pgbrowser@gmail.com.
+
+LJ. 2020.4.28
