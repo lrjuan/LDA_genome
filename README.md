@@ -1,6 +1,6 @@
 # LDA_genome
 
-Source codes:
+##Source codes:
 
 generate_data.pl: Extract KGP data to variant information and individual genotypes.
 
@@ -22,15 +22,15 @@ clustering_ranking_analysis.R: Ranking Score calculation.
 
 plot.mds.Rplot.mds.R: MDS analysis and visualization.
 
-###############
-Data access:
+##Data access:
 
 The 1000 genomes project dataset is downloaded from: ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/
 
 The 31 related individuals dataset is downloaded from: ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/supporting/related_samples_vcf/
 
-###############
-High resolution figures: Figure 1-3, Figure S1-S3.
+##High resolution figures: 
+
+Figure 1-3, Figure S1-S3.
 
 
 Please do not hesitate to address comments/questions/suggestions regarding these codes to: pgbrowser@gmail.com.
