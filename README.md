@@ -30,7 +30,7 @@ The 31 related individuals dataset is downloaded from: ftp://ftp.1000genomes.ebi
 
 ##High resolution figures: 
 
-Figure 1-3, Figure S1-S3.
+Figure 1-4, Figure S1-S5.
 
 
 Please do not hesitate to address comments/questions/suggestions regarding these codes to: pgbrowser@gmail.com.
